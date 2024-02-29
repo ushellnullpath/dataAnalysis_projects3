@@ -23,6 +23,6 @@ This high positive correlation suggests a strong relationship between Ethereum a
 
 Ethereum exhibits significantly higher volatility compared to the S&P 500 index, making it a riskier investment.
 
-3. What If Scenario: To simulate a "what if" scenario, the returns on a $1 investment was calculated for both Ethereum and the S&P 500 index over time. The table presented in the jupyter notebook file shows that while Ethereum can provide substantial returns, it is also a riskier investment compared to the S&P 500 index a the S&P 500 has exhibited a more stable price over time.
+3. What If Scenario: To simulate a "what if" scenario, the returns on a $1 investment was calculated for both Ethereum and the S&P 500 index over time. The table presented in the jupyter notebook file shows that while Ethereum can provide substantial returns, it is also a riskier investment compared to the S&P 500, as the S&P 500 index has exhibited a more stable price over time.
 
 DISCLAIMER: This information is provided solely for informational purposes and should not be construed as personal financial advice. Keep in mind that investing carries inherent risks. For investment ideas, consider visiting [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) and embracing the YOLO spirit!
